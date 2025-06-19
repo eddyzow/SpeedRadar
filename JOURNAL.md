@@ -1,6 +1,12 @@
+---
+title: "SpeedRadar"
+author: "Eddy Zhao (@eddyzow)"
+description: "A LiDAR-based device that determines the speed of passing cars on the road, then sends a wireless signal to a 64x64 LED matrix built inside of a traffic sign mounted on a nearby tree to tell the driver how fast they are going."
+created_at: "2025-06-18"
+---
+
 *Total hours spent: 2* | *Date started: 18 June 2025*
 
----
 # SpeedRadar
 _life goes brrrrrrrrr and we need a way to measure its speed_
 
