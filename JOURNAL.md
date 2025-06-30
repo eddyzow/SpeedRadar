@@ -10,6 +10,12 @@ created_at: "2025-06-18"
 # SpeedRadar
 _life goes brrrrrrrrr and we need a way to measure its speed_
 
+## entry #1 -- 6/30
+
+it's been a while, and i'm realizing now that i don't know if i have the time remaining to make this! undercity is only eleven days away, and i need to finish all my stuff by then, so i'm going to postpone this until i get back (in about a month). then, i'll pull a few allnighters getting the project submitted by 7/31, and i'll build and submit by the build deadline.
+
+in the meantime, i'm going to begin a new project called EZCam. it's basically a disposable camera running on Instax film -- hope you like it when you see it!
+
 ## entry #0 -- 6/19
 
 so... i've finished four highway projects so far. and you know what I realized? none of the stuff i've built so far is actually useful to anyone else except me. two keyboards, a scooter, and a pomodoro timer. but recently an absolutely CRAZY idea came across my head. what's something that other people could see that I built just by driving across my house? well, the solution is here.
